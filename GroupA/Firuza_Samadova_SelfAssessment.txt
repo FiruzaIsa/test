@@ -1,0 +1,9 @@
+                                         Firuza’s Self-Assessment
+
+Over the course of the Python project, I realized both my strengths and areas needing improvement. My understanding of Python fundamentals was strong, which aided in the swift development of core functionalities. I felt confident using loops, conditionals, and data structures like lists and dictionaries. Furthermore, by incorporating libraries such as Flask and BeautifulSoup, I was able to efficiently handle and process large datasets.
+
+However, there were challenges too. Initially, I struggled with code modularity, leading to some redundancy. It was a reminder that understanding a language doesn't equate to mastering software design principles. Another hiccup was in error handling. A few unexpected exceptions arose during testing, which indicated that I hadn’t anticipated all potential issues.
+
+To address these challenges, I consulted online resources and sought feedback from peers. This iterative approach helped me refine the project progressively. The importance of thorough testing became clearer than ever, pushing me to spend almost as much time in validation as in development.
+
+In retrospect, this project has been invaluable in highlighting areas I excel in and those that require further attention. The journey has been a testament to the importance of continuous learning in software development.

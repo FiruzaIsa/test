@@ -1,0 +1,9 @@
+                            Ilgar’s Self Assessment
+
+
+In the recent Python project, I stepped out of my primary role as a front-end developer, broadening my horizons. I was pleasantly surprised by the seamless integration between Python and front-end technologies, especially when using frameworks like Django or Flask. I appreciated the simplicity of templating engines, which allowed for more dynamic web content.
+
+Nevertheless, I faced challenges, particularly in the initial setup of the development environment and understanding the bridge between Python and the UI. Debugging was also a shift from my usual JavaScript-centered process.
+
+However, collaborating with the back-end team and delving deeper into Python’s vast documentation helped me navigate these issues. While my strengths remain in front-end development, this project underscored the value of understanding back-end processes and enhanced collaboration. It's a step forward in becoming a more versatile developer, and I am excited about future integrations.
+
